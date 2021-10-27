@@ -1,0 +1,2 @@
+# Neural-networks-optimization-methods
+Until now, I've always used Gradient Descent to update the parameters and minimize the cost. In this notebook, i will learn more advanced optimization methods that can speed up learning and perhaps even get me to a better final value for the cost function. Having a good optimization algorithm can be the difference between waiting days vs. just a few hours to get a good result.
